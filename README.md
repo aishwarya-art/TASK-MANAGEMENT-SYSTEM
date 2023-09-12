@@ -43,13 +43,31 @@ For multilingual support to manage translations and language specific content.
 Boostrap for styling and responsive design.
 
 ## Instructions to run the code
+
 <h4>environmental SetUp</h4>
 Download XAMPP <br>
-[https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwil6POkjaWBAxVZxzgGHcC1C40QFnoECA4QAQ&url=https%3A%2F%2Fwww.apachefriends.org%2Fdownload.html&usg=AOvVaw0FJaxz5J9FUgyQIdXelZ6c&opi=89978449]
+[https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwil6POkjaWBAxVZxzgGHcC1C40QFnoECA4QAQ&url=https%3A%2F%2Fwww.apachefriends.org%2Fdownload.html&usg=AOvVaw0FJaxz5J9FUgyQIdXelZ6c&opi=89978449]<br>
 Install Xampp into C directory<br>
 Starting Up Xampp<br>
 -Start Apache 
 -Start MySQl
+
+<h4>Download Zip File</h4>
+Extract the files into C/:Xampp/htdocs for windows
+
+<h4>Database set up</h4>
+Create a database named task and import task.sql file into the database.
+
+<h4>Run the code</h4>
+Click on brower and type [https://localhost/Task/index.php/Account]<br>
+Register for a new account,login<br>
+Now you are free to use.
+
+<h4>Credits</h4>
+The Web Application created by Aishwarya MS
+-
+
+
 
 
 
